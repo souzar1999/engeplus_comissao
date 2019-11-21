@@ -53,7 +53,7 @@ export default function Seller({ history, match }){
                 <table className="table table-bordless">
                     <thead>
                         <tr>
-                            <th>Nome</th>
+                            <th>Venda</th>
                             <th>Valor</th>
                             <th>Comissão</th>
                         </tr>

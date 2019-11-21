@@ -52,7 +52,7 @@ export default function Dashboard({ history }){
                 <table className="table table-bordless">
                     <thead>
                         <tr>
-                            <th>Nome</th>
+                            <th>Vendedor</th>
                             <th>Comissão</th>
                         </tr>
                     </thead>
